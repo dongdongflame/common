@@ -21,7 +21,7 @@ import org.z.cloud.common.util.StringUtil;
 
 public enum LevelDB {
 
-	SCHEDULER("/root", "/workspace/test/scheduler");
+	SCHEDULER("/root/workspace/test/", "scheduler");
 
 	private static Logger logger = LoggerFactory.getLogger(LevelDB.class);
 	private static final int batchUpdate = 90;
