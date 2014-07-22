@@ -1,4 +1,4 @@
-package org.z.cloud.commom.module;
+package org.z.cloud.common.module;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

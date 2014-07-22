@@ -1,4 +1,4 @@
-package org.z.cloud.commom.db;
+package org.z.cloud.common.db;
 
 import java.io.File;
 import java.io.IOException;
