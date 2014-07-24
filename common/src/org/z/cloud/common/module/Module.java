@@ -8,6 +8,8 @@ public interface Module {
 
 	public boolean reStart();
 
+	public long getStartTime();
+
 	public Object service(Object... params);
 
 }
